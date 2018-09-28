@@ -1,7 +1,7 @@
-package int转换为char类型;
+package int脳陋禄禄脦陋char脌脿脨脥;
 
 public class IntChar {
-
+	//鐖辨垜
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a=(int)'Z';
