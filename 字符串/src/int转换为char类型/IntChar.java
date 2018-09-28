@@ -1,7 +1,7 @@
 package int×ª»»ÎªcharÀàÐÍ;
 
 public class IntChar {
-	//爱我
+	//222
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a=(int)'Z';
