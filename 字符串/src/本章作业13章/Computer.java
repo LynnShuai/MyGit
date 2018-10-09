@@ -1,7 +1,7 @@
 package 本章作业13章;
 
 public class Computer {
-	//爱我
+	//爱我111
 	String name2;
 	int random;
 			public String random() {
